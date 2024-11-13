@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Luxury Car Dream Wardrobe</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>Luxury Car Dream Wardrobe</h1>
+    <p>Explore the world's most luxurious cars and build your dream garage.</p>
+  </header>
+
+  <!-- Main Car Collection Section -->
+  <section id="car-collection">
+    <div class="car" onclick="addToFavorites('Ferrari LaFerrari')">
+      <img src="images/laferrari.jpg" alt="Ferrari LaFerrari">
+      <h2>Ferrari LaFerrari</h2>
+      <p>Price: $1,500,000</p>
+      <button>Add to Favorites</button>
+    </div>
+    <div class="car" onclick="addToFavorites('Bugatti Chiron')">
+      <img src="images/chiron.jpg" alt="Bugatti Chiron">
+      <h2>Bugatti Chiron</h2>
+      <p>Price: $3,000,000</p>
+      <button>Add to Favorites</button>
+    </div>
+    <!-- Add more car entries as needed -->
+  </section>
+
+  <!-- Favorites Section -->
+  <section id="favorites">
+    <h2>Your Favorite Cars</h2>
+    <ul id="favorite-list"></ul>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
