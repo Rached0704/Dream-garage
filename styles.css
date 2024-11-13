@@ -1,0 +1,63 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+  background-color: #1f1f1f;
+}
+
+h1 {
+  color: #e5c100;
+}
+
+#car-collection {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.car {
+  background-color: #2a2a2a;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 10px;
+  width: 200px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.car img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+button {
+  background-color: #e5c100;
+  color: #121212;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ffdd44;
+}
+
+#favorites {
+  margin-top: 30px;
+  padding: 20px;
+}
+
+#favorite-list {
+  list-style-type: none;
+  padding: 0;
+}
