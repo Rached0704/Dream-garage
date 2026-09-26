@@ -298,3 +298,51 @@ before sharing it.
 3. [Kitchen](https://d8j0ntlcm91z4.cloudfront.net/user_3I55ydMVwVB3VY0ZTksswZ99UIs/hf_20260926_021247_ad068958-85e0-4cf2-af89-91298464954e.png)
 4. [Dining and bar](https://d8j0ntlcm91z4.cloudfront.net/user_3I55ydMVwVB3VY0ZTksswZ99UIs/hf_20260926_021246_0f39236b-e613-43c5-8de0-00f7c384787c.png)
 5. [Entrance and stair](https://d8j0ntlcm91z4.cloudfront.net/user_3I55ydMVwVB3VY0ZTksswZ99UIs/hf_20260926_021246_ea0d123c-2d8c-4fac-a179-304f3475b637.png)
+
+---
+
+## Revision 2: changes from the client's inspiration images
+
+The client shared five Instagram references. I cropped them and used them as
+style references only; the plan still sets the architecture. Each one changes
+the scheme as follows:
+
+| Ref | What we take from it | Where it goes |
+|---|---|---|
+| Kitchen, travertine island (@jamal_zein_) | Vein-cut silver travertine monolith island, raised **backlit onyx bar block**, cognac leather stools with floor uplights, walnut framed tall units, charcoal rounded-panel base units, backlit travertine display shelving, **branching bronze chandelier with white glass globes** | Kitchen (replaces the Calacatta Viola island and linear pendants) |
+| Dark kitchen/dining (nkey.architects) | Dark smoked-timber ceiling, **looping linear LED ring**, tall dark-bronze vertical fins with a top LED cove, Rainforest-brown stone, warm LED shelf strips | Library lounge, kitchen splashback |
+| Fluted oak bar niche (sereenhassaniesharchitects) | Fluted light-oak wall with **backlit floating bar shelves**, a free-standing bronze tube screen, curved bouclé sofa and swivel chairs, smoked-glass and bronze coffee table | Library lounge, double-height living seating |
+| Slatted screen and sideboard (Gunawan x Gunawan) | Dark bronze slatted screen with backlit shelves above a **curved light-oak cabinet with a green marble top** | Entrance side wall, dining sideboard |
+| Villa triptych (Gunawan x Gunawan) | **Wave-carved walnut feature wall**, **teal and clear glass-shard chandelier**, granite gallery fascia, backlit labradorite bar; dark stone entry wall with a **gold ribbon wall light** and leaf-perforated screen; dining with a full bottle wall, glass lantern pendants and dark marble floor | Double-height living, entrance, dining |
+
+### What changed in the scheme
+
+- **Double-height living:** the Rainforest Brown marble wall becomes a
+  **wave-carved walnut wall**. The shard chandelier turns teal and clear, and
+  the gallery edge is clad in white-grey granite with a backlit labradorite
+  bar niche below it.
+- **Library lounge:** a looping LED ring on a dark timber ceiling, bronze fins
+  with a cove light, a fluted-oak backlit bar niche, a bronze tube screen and
+  curved bouclé seating. The Rainforest-stone fireplace plinth stays.
+- **Kitchen:** now follows the travertine and onyx island reference, with the
+  branching globe chandelier as its sculptural piece.
+- **Dining:** a dark marble table and a **dark Emperador marble floor** (this
+  zone only), a full-height bottle wall between labradorite slabs, and two
+  textured-glass lantern pendants. A curved oak and green marble sideboard is
+  added.
+- **Entrance:** a dark textured stone wall with a gold ribbon light, a
+  leaf-perforated metal screen, a curved dark stone inlay in the pale floor,
+  and a bronze slatted display screen over a curved oak cabinet.
+- **Palette:** green marble (Verde Guatemala or similar) is added as a second
+  rare accent next to teal.
+
+### Revision 2 renders (Higgsfield, Nano Banana Pro, 2K, 16:9)
+
+References for each: the ground floor plan, the Rhino model where glazing
+matters, and the matching inspiration images. None of these renders has been reviewed yet.
+
+1. Double-height living: [render](https://d8j0ntlcm91z4.cloudfront.net/user_3I55ydMVwVB3VY0ZTksswZ99UIs/hf_20260926_022046_859f8e70-fdf5-4d32-9081-d3f12c771c2b.png)
+2. Library lounge: [render](https://d8j0ntlcm91z4.cloudfront.net/user_3I55ydMVwVB3VY0ZTksswZ99UIs/hf_20260926_022045_5ba65cec-2ce1-4296-a448-b597ed9617c0.png)
+3. Kitchen: [render](https://d8j0ntlcm91z4.cloudfront.net/user_3I55ydMVwVB3VY0ZTksswZ99UIs/hf_20260926_022045_60080777-3e92-40c2-bd78-6ca245edb4fb.png)
+4. Dining and bar: [render](https://d8j0ntlcm91z4.cloudfront.net/user_3I55ydMVwVB3VY0ZTksswZ99UIs/hf_20260926_022045_030c4c7d-a5e0-4f26-a759-71236b58855e.png)
+5. Entrance: [render](https://d8j0ntlcm91z4.cloudfront.net/user_3I55ydMVwVB3VY0ZTksswZ99UIs/hf_20260926_022045_7e47b83b-32ec-4e67-ac71-d77a1c3c7d6c.png)
